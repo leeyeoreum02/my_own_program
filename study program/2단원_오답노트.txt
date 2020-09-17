@@ -1,0 +1,9 @@
+registration=신청, 등록>
+request=신청, 등록>
+change는 변화의 뜻을 가질 때 _명사이고, _의 뜻을 가질 땐 _명사이다.=가산, 잔액, 불가산>
+S V 뒤에 오는 형태는? (4가지)=1. 전+명 2. 부사 3. 명+형 4. 강조(-self/-selves)>
+leave N=N을 떠남>
+convention=관습, 대회, 조약>
+한정사의 종류는? (6가지)=a, an, the(가산, 불가산 둘다 나옴), 소유, 지시, 수량>
+sometime in N=N 중에>
+leave _ N=for, N로 떠남
